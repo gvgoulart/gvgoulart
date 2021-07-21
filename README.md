@@ -2,7 +2,7 @@
 
 ### Opa, bão?👋
 
-Meu nome é Gabriel, estudante de ADS na Fatec Franca, apaixonado em  música e programação.
+Meu nome é Gabriel, estudante de ADS na Fatec Franca.
 
 -   👨🏻‍💻 Backend Jr.
 
