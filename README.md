@@ -4,7 +4,7 @@
 
 Meu nome é Gabriel, estudante de ADS na Fatec Franca.
 
--   👨🏻‍💻 Backend Jr.
+-   👨🏻‍💻 Backend Pl.
 
 -   📰   PHP,Laravel, JavaScript, Jquery
 -   💬  Apaixonado por música, esporte, meu cachorrinho e minha namorada
